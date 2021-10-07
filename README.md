@@ -1,7 +1,7 @@
 Today I made a to-do list with React 
 
 <div align="center">
-<img src="/todo/src/img/taskListImg.jpeg" width="700px" />
+<img src="/img/taskListImg.jpeg" width="700px" />
 </div>
 
 # Getting Started with Create React App
